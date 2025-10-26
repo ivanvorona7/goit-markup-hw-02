@@ -1,0 +1,159 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #2E2F42;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+ul {
+    list-style: none;
+}
+
+/* #region header */
+.main-logo {
+font-family: 'Raleway';
+font-weight: 700;
+font-size: 18px;
+line-height: 1.17;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+}
+
+.text-raleway {
+    color:#4D5AE5
+}
+
+.nav-link{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link.active {
+    color:#404bbf;
+}
+
+.contact-info {
+font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+}
+
+.contact-info :hover,
+.contact-info :focus,
+.contact-info .active {
+    color:#404bbf;
+}
+/* #endregion header */
+
+/* #region hero */ 
+.page {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+    background-color:#2e2f42;
+}
+.button {
+cursor: pointer;
+font-weight: 500;
+font-size: 16px;
+ line-height: 1.5;
+letter-spacing: 0.04em;
+color: #fff;
+background-color: #2e2f42;
+}
+/* #endregion hero */
+
+/* #region benefits */
+.strategy-list{
+font-family: var(--font-family);
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.strategy-item {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;;
+}
+/* #endregion benefits */ 
+
+/* #region team */  
+
+.title{
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+}
+
+.title-iteam{
+font-weight: 400;
+font-size: 16px;
+ line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* #endregion team */
+
+/* #region portfolio */
+.heading {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+}
+
+.portfolio-pegging {
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;     
+}
+.portfolio-item {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455;
+}
+/* #endregion portfolio */
+
+/* #region footer */
+.text-raleway-footer {
+    color: #f4f4fd;
+}
+.footer-logo {
+    font-family: 'Raleway';
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.17;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+        background-color: #2e2f42;
+}
+
+.footer-text {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #f4f4fd;
+background-color: #2e2f42;
+}
+/* #endregion footer */
