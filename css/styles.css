@@ -91,7 +91,7 @@ background-color: #4D5AE5;
 
 /* #region benefits */
 .strategy-list-section{
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .strategy-list {
@@ -155,7 +155,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;     
 }
-.portfolio-item {
+.portfolio-iteam {
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
