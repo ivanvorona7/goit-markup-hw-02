@@ -103,11 +103,14 @@ color:#2e2f42;
 }
 
 .strategy-item {
-line-height: 1.5;
-letter-spacing: 0.02em;
 font-weight: 400;
 font-size: 16px;
 color: #434455;
+}
+
+p {
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 /* #endregion benefits */ 
 
